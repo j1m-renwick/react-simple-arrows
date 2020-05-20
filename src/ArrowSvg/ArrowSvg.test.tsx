@@ -19,4 +19,3 @@ describe('ArrowSvg', () => {
     expect(container.firstChild).toMatchSnapshot();
   });
 });
-
